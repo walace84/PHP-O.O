@@ -1,0 +1,3 @@
+2018-04-11 13:47:45 :: Inserindo produto novo
+2018-04-11 13:47:45 :: INSERT INTO produto (id, descricao, estoque , preco_custo, preco_venda, codigo_barras, data_cadastro, origem) VALUES
+                                        ('27', 'Computador de mesa', '3', '120', '310', '963254', '2018-04-11', 'N')

@@ -1,0 +1,14 @@
+<bases>
+    <base id='1'>
+        <name>teste</name>
+        <host>192.127.0.01</host>
+        <type>mysql</type>
+        <user>root</user>
+    </base>
+     <base id='2'>
+        <name>teste</name>
+        <host>192.127.0.2</host>
+        <type>mysql</type>
+        <user>vazio</user>
+    </base>
+</bases>
